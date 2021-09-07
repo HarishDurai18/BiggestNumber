@@ -16,7 +16,7 @@ public class BiggestNumber
      {
          System.out.println("Largest number is:"+a);
      } 
-     else if(y>x && y>z)
+     else if(b>a && b>c)
      {
          System.out.println("Largest number is:"+b);
      }
